@@ -1,0 +1,20 @@
+# DRISHYA V1 GCS — Disaster Response Intelligence & Mission Control System
+# Core (required)
+customtkinter>=5.2.0
+pymavlink>=2.4.0
+pyserial>=3.5
+pillow>=9.0.0
+
+# Map (required for live map)
+tkintermapview>=1.29
+
+# Plots & LiDAR visualisation
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Camera feed (install separately)
+# pip install opencv-python
+
+# LiDAR drivers (install only if using hardware)
+# pip install rplidar-roboticia     # RPLIDAR A1/A2/A3
+# pip install velodyne_decoder       # Velodyne VLP-16
