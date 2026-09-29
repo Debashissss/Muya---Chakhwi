@@ -14,7 +14,7 @@
 
 <br/>
 
-![SIH 2026](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-0B5CA8?style=for-the-badge)
+![SIH 2026](https://sih.gov.in/img1/SIH2026-logo.png)
 ![Problem Statement](https://img.shields.io/badge/Problem%20Statement-26177-F97316?style=for-the-badge)
 ![Team ID](https://img.shields.io/badge/Team%20ID-181771-16A34A?style=for-the-badge)
 ![Theme](https://img.shields.io/badge/Theme-Robotics%20%26%20Drones-9333EA?style=for-the-badge)
