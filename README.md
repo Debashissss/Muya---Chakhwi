@@ -1,241 +1,79 @@
-<!-- ============================================================
-     DRONE ACHARYAA · Team MUYA CHAKHWI · SIH 2026 · PS 26177
-     Single-file README: paste directly into your repo's README.md.
-     No local images or asset folders are needed.
-     ============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=MUYA%20CHAKHWI&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Smart%20India%20Hackathon%202026&descAlignY=58&descSize=22" alt="MUYA CHAKHWI" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=270&section=header&text=MUYA%20CHAKHWI&fontSize=74&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Smart%20India%20Hackathon%202026&descAlignY=58&descSize=22" width="100%" alt="MUYA CHAKHWI"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=F97316&center=true&vCenter=true&width=820&lines=%F0%9F%9A%81+DRONE+ACHARYAA;Intelligence+That+Guides%2C+Eyes+That+Save;AI-Powered+Autonomous+Search-and-Rescue+Drone;Offline-First.+GPS-Denied+Ready.+Human-Verified." alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=900&color=F97316&center=true&vCenter=true&width=860&lines=%F0%9F%9A%81+DRONE+ACHARYAA;Intelligence+That+Guides%2C+Eyes+That+Save;AI-Powered+Search-and-Rescue+Drone;Offline-First+%7C+GPS-Denied+Ready+%7C+Human-Verified" alt="Typing animation"/>
 
 <br/>
 
-![SIH 2026](https://sih.gov.in/img1/SIH2026-logo.png)
-![Problem Statement](https://img.shields.io/badge/Problem%20Statement-26177-F97316?style=for-the-badge)
-![Team ID](https://img.shields.io/badge/Team%20ID-181771-16A34A?style=for-the-badge)
-![Theme](https://img.shields.io/badge/Theme-Robotics%20%26%20Drones-9333EA?style=for-the-badge)
-![Category](https://img.shields.io/badge/Category-Hardware-DB2777?style=for-the-badge)
+![SIH 2026](https://img.shields.io/badge/SIH-2026-0B5CA8?style=for-the-badge)
+![PS](https://img.shields.io/badge/PS-26177-F97316?style=for-the-badge)
+![Team](https://img.shields.io/badge/Team%20ID-181771-16A34A?style=for-the-badge)
+![Theme](https://img.shields.io/badge/Robotics%20%26%20Drones-Hardware-9333EA?style=for-the-badge)
 
-![False positives](https://img.shields.io/badge/False%20Positive%20Target-%3C5%25-4ADE80?style=flat-square&labelColor=0B2545)
+![FP](https://img.shields.io/badge/False%20Positives-%3C5%25-4ADE80?style=flat-square&labelColor=0B2545)
 ![Overlap](https://img.shields.io/badge/Survey%20Overlap-30%25-38BDF8?style=flat-square&labelColor=0B2545)
 ![Bands](https://img.shields.io/badge/Priority%20Bands-4-F97316?style=flat-square&labelColor=0B2545)
 ![Fix](https://img.shields.io/badge/RTK--free%20Fix-%C2%B12.5%20m-FACC15?style=flat-square&labelColor=0B2545)
-![Cloud](https://img.shields.io/badge/Cloud%20Dependency-0-F472B6?style=flat-square&labelColor=0B2545)
-
-<br/>
-
-**🚁 Detect &nbsp;→&nbsp; 📍 Locate &nbsp;→&nbsp; ⚖️ Prioritize &nbsp;→&nbsp; 🧭 Guide &nbsp;·&nbsp; all without the internet**
+![Cloud](https://img.shields.io/badge/Cloud%20Needed-0-F472B6?style=flat-square&labelColor=0B2545)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
-## 📌 Table of Contents
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=38BDF8&width=600&height=40&lines=THE+PROBLEM" alt="The Problem"/>
 
-- [Problem Statement](#-problem-statement)
-- [Our Solution: Drone Acharyaa](#-our-solution-drone-acharyaa)
-- [How Drone Acharyaa Operates](#-how-drone-acharyaa-operates)
-- [What Makes It Different](#-what-makes-it-different)
-- [System Architecture](#-system-architecture)
-- [Flight Modes](#-flight-modes)
-- [Methodologies](#-methodologies)
-- [Technology Stack and Components](#-technology-stack-and-components)
-- [Technical Workflow During Rescue](#-technical-workflow-during-rescue)
-- [Feasibility and Viability](#-feasibility-and-viability)
-- [Risks and Solutions](#-risks-and-solutions)
-- [Impact and Benefits](#-impact-and-benefits)
-- [Business Model](#-business-model)
-- [Future Scope](#-future-scope)
-- [References](#-references)
-- [Meet the Team](#-meet-the-team)
+> **PS 26177:** A deployable AI-powered autonomous drone that aids search-and-rescue by detecting people and hazards, improving responder safety and cutting victim discovery time.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
+- 🕒 **Delayed rescue** in inaccessible or damaged terrain
+- 📡 **Connectivity loss** breaks cloud-dependent tools
+- ⚠️ **Rescuers at risk** during manual assessments
+- 🛰️ **GPS-denied zones** make normal drones unreliable
+- ⚖️ **No prioritization** among multiple survivors
 
-## 🎯 Problem Statement
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
-> **PS ID 26177:** A deployable AI-powered autonomous drone that aids search-and-rescue operations by detecting people and hazards, thereby improving responder safety and reducing victim discovery time.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=F97316&width=600&height=40&lines=OUR+SOLUTION%3A+DRONE+ACHARYAA" alt="Our Solution"/>
 
-| Field | Details |
-|---|---|
-| **Theme** | Robotics and Drones |
-| **PS Category** | Hardware |
-| **Team ID** | 181771 |
-| **Team Name** | Muya Chakhwi |
+A hexacopter with **edge AI** that sees with **RGB + thermal**, finds survivors and hazards, ranks them by urgency and guides rescuers, **all without internet**.
 
-### The problems we address
+<div align="center">
 
-| # | Problem | Why it matters |
+![Sense](https://img.shields.io/badge/-SENSE-0EA5E9?style=for-the-badge) ➜ ![Detect](https://img.shields.io/badge/-DETECT-22C55E?style=for-the-badge) ➜ ![Prioritize](https://img.shields.io/badge/-PRIORITIZE-F97316?style=for-the-badge) ➜ ![Map](https://img.shields.io/badge/-MAP-EAB308?style=for-the-badge) ➜ ![Plan](https://img.shields.io/badge/-PLAN-6366F1?style=for-the-badge) ➜ ![Guide](https://img.shields.io/badge/-GUIDE-EC4899?style=for-the-badge) ➜ ![Alert](https://img.shields.io/badge/-ALERT-EF4444?style=for-the-badge)
+
+</div>
+
+| 📡 Link | What it carries | Status in a disaster zone |
 |---|---|---|
-| 1 | **Delayed rescue** due to inaccessible or damaged terrain | Every minute lost reduces survival chances |
-| 2 | **Connectivity loss** makes cloud-dependent solutions ineffective | Disaster zones often have no cellular or internet |
-| 3 | **Risk to rescue teams** during manual assessments | Responders enter unassessed danger zones blindly |
-| 4 | **GPS-denied zones** make conventional drone navigation unreliable | Standard drones drift or fail without GPS |
-| 5 | **No prioritization among multiple survivors** | Critical cases may be treated as less urgent |
+| **LoRa** | Critical geo-tagged alerts, drone → command center | ✅ Always works |
+| **Wi-Fi / 4G** | Video + images, buffered in local SQLite | ⏳ Auto-sync on reconnect |
+| **Internet / cloud** | Not required | ❌ Not needed |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
-## 🚁 Our Solution: Drone Acharyaa
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=4ADE80&width=600&height=40&lines=WHAT+MAKES+IT+DIFFERENT" alt="What makes it different"/>
 
-**Drone Acharyaa** is a hexacopter-based, edge-AI search-and-rescue platform. It detects survivors and hazards in real time using RGB and thermal vision, locates them, ranks them by urgency, and guides rescuers along safe routes. It does all of this **without depending on the internet**.
+- 🐝 Swarm-based collaborative search
+- 📴 Offline AI, reliable with zero connectivity
+- 🌡️ RGB + Thermal + GPS + IMU fusion
+- 🛣️ Dynamic safe corridors for rescuers
+- 🔋 Energy-aware routes with battery kept for return
+- 🌊🔥 Disaster-specific AI: floods, fire, earthquake, debris
+- 💰 Lower cost per flight hour: **₹4,000 to ₹8,000** vs ₹5,000 to ₹15,000 for existing SAR drones
 
-### Proposed solution impact
+**Flight modes:** 📍 GPS survey grid (30% overlap, geofence) &nbsp;·&nbsp; 📴 GPS-denied (optical flow + EKF switching) &nbsp;·&nbsp; 🌲 Obstacle stop, pilot override always live
 
-- ✅ Reduces dependency on large human search teams for the initial sweep
-- ✅ Keeps data flowing to command centers even with zero cellular or internet infrastructure
-- ✅ Removes the need for humans to enter unassessed danger zones blindly
-- ✅ Reduces preventable deaths caused by resource misallocation
-- ✅ Reduces dependence on imported commercial drone platforms
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=FACC15&width=600&height=40&lines=HOW+IT+WORKS" alt="How it works"/>
 
-## 🔄 How Drone Acharyaa Operates
-
-```mermaid
-flowchart LR
-    A(["🛰️ Sense"]) --> B(["🔍 Detect"]) --> C(["⚖️ Prioritize"]) --> D(["🗺️ Map"])
-    D --> E(["🧭 Plan"]) --> F(["👷 Guide"]) --> G(["🚨 Alert"])
-    G -. continuous loop .-> A
-
-    style A fill:#7FB8E8,stroke:#000,color:#000
-    style B fill:#9BE05A,stroke:#000,color:#000
-    style C fill:#FFA24D,stroke:#000,color:#000
-    style D fill:#FFE06B,stroke:#000,color:#000
-    style E fill:#7FB8E8,stroke:#000,color:#000
-    style F fill:#9BE05A,stroke:#000,color:#000
-    style G fill:#FFA24D,stroke:#000,color:#000
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## ⭐ What Makes It Different
-
-| Feature | Description |
+| 🔬 Method | What we do |
 |---|---|
-| 🐝 **Swarm-based collaborative search** | Multiple drones cover the area together |
-| 📴 **Offline AI model integration** | Reliable detection with no cloud dependency |
-| 💰 **Cost effective** | Lower operating cost than current SAR drone technologies |
-| 🌡️ **RGB + Thermal + GPS + IMU** | Multi-sensor fusion for higher reliability |
-| 🛣️ **Dynamic safe corridors** | Constantly updated safe routes for rescuers |
-| 🔋 **Energy-aware autonomy** | Optimizes search routes while keeping battery for a safe return |
-| 🌊🔥 **Disaster-specific AI** | Built for floods, fire hazards, earthquakes, debris and more |
-
-### 📴 Offline-first, in one picture
-
-```mermaid
-flowchart LR
-    D["🚁 Drone Acharyaa<br/>edge AI + local SQLite buffer"]
-    C["☁️ Cloud / Internet<br/>❌ unreachable"]
-    L["📡 LoRa link<br/>compact geo-tagged critical alerts"]
-    W["📶 Wi-Fi / 4G<br/>video + images, when available"]
-    K["🖥️ Command Center<br/>NDRF / SDRF<br/>live map + ranked queue"]
-
-    D == "always works" ==> L ==> K
-    D -. "auto-sync on reconnect" .-> W -.-> K
-    D --x C
-
-    style D fill:#7FB8E8,stroke:#000,color:#000
-    style C fill:#fecaca,stroke:#ef4444,color:#000
-    style L fill:#FFA24D,stroke:#000,color:#000
-    style W fill:#FFE06B,stroke:#000,color:#000
-    style K fill:#9BE05A,stroke:#000,color:#000
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## 🧩 System Architecture
-
-```mermaid
-flowchart LR
-    S1["1. SENSE<br/>RGB camera (3-axis)<br/>Thermal / IR camera<br/>LiDAR + Rangefinder<br/>GNSS + IMU + Baro"]
-    S2["2. FLY<br/>Autonomous waypoint grid<br/>Geofence + return-to-home<br/>Obstacle stop + avoidance<br/>GPS-denied failover"]
-    S3["3. DETECT<br/>YOLO11 on RGB + thermal<br/>Survivor detection<br/>Fire / flood / debris<br/>Thermal confirmation"]
-    S4["4. LOCATE<br/>Pixel GPS coordinate<br/>Duplicate survivor merge<br/>Hazard proximity check<br/>Priority score, 4 bands"]
-    S5["5. RELAY<br/>LoRa: critical alerts<br/>Wi-Fi / 4G: video + images<br/>Local SQLite buffer<br/>Auto-sync on reconnect"]
-    S6["6. COMMAND<br/>Live map + survivor pins<br/>Hazard zone overlay<br/>Safe rescue route + ETA<br/>Ranked priority queue"]
-
-    S1 --> S2 --> S3 --> S4 --> S5 --> S6
-    S6 -. feedback .-> S2
-
-    style S1 fill:#7FB8E8,stroke:#000,color:#000
-    style S2 fill:#FFE06B,stroke:#000,color:#000
-    style S3 fill:#9BE05A,stroke:#000,color:#000
-    style S4 fill:#FFA24D,stroke:#000,color:#000
-    style S5 fill:#7FB8E8,stroke:#000,color:#000
-    style S6 fill:#9BE05A,stroke:#000,color:#000
-```
-
-| Stage | Hardware / Software |
-|---|---|
-| **Sense** | Hexacopter with gimbaled payload |
-| **Fly** | Pixhawk 6X v2 flight controller |
-| **Detect** | Raspberry Pi 5 running YOLO11 |
-| **Locate** | Geo-tagging and triage |
-| **Relay** | Dual link, offline first |
-| **Command** | Command center (NDRF / SDRF) |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## 🛫 Flight Modes
-
-| 📍 GPS Available | 📴 Non-GPS / Offline | 🌲 Obstacle Detection |
-|---|---|---|
-| Waypoint survey grid | Optical flow + rangefinder | Forward rangefinder stop |
-| Geofence + altitude cap | EKF source switching | Clearance-altitude survey |
-| Coverage map, 30% overlap | Last-known-position hold | Geofence as primary guard |
-| RTK-free ±2.5 m fix | Auto-RTH / safe land | Pilot override always live |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## 🔬 Methodologies
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 1️⃣ Edge AI Detection
-- YOLO11 on RGB + thermal, on-board Raspberry Pi 5
-- Detects survivors, fire, flood and debris offline
-- Fine-tuned on aerial SAR data (e.g. HERIDAL, HIT-UAV)
-
-</td>
-<td width="50%" valign="top">
-
-### 2️⃣ RGB + Thermal Fusion
-- Thermal confirmation of every RGB detection
-- Filters fire and hot debris, with a target of **<5% false positives**
-- Confidence and evidence shown; a human verifies every alert
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 3️⃣ Locate and Prioritize
-- Pixel GPS coordinates and duplicate survivor merge
-- Hazard proximity check on every detection
-- Priority score in 4 bands, giving a ranked rescue queue
-
-</td>
-<td width="50%" valign="top">
-
-### 4️⃣ Autonomous Navigation
-- Waypoint grid, 30% overlap, geofence, energy-aware return-to-home
-- GPS-denied: optical flow with EKF source switching
-- Dynamic safe corridors and ETA for rescue teams
-
-</td>
-</tr>
-</table>
-
-**Comms:** LoRa alerts + SQLite auto-sync &nbsp;|&nbsp; **Validation:** simulation → field trials on recall, false positives and latency
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## 🛠️ Technology Stack and Components
+| **Edge AI detection** | YOLO11 on RGB + thermal, on a Raspberry Pi 5, fully offline |
+| **Thermal fusion** | Thermal confirms RGB to filter fire and hot debris, target **<5%** false positives |
+| **Locate and prioritize** | Pixel to GPS, duplicate merge, hazard check, **4-band** priority queue |
+| **Navigation** | Waypoint grid, energy-aware return, GPS-denied failover |
+| **Trust** | Every alert shows confidence + evidence, a **human verifies** before action |
 
 <div align="center">
 
@@ -244,232 +82,44 @@ flowchart LR
 ![MAVLink](https://img.shields.io/badge/MAVLink-E4572E?style=for-the-badge)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![YOLO11](https://img.shields.io/badge/YOLO11-00A8CC?style=for-the-badge)
-![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![RPi5](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Pixhawk](https://img.shields.io/badge/Pixhawk-6X%20v2-1F2937?style=for-the-badge)
 
 </div>
 
-| Category | Items |
-|---|---|
-| **Airframe** | Hexacopter with 3-axis gimbaled payload |
-| **Flight controller** | Pixhawk 6X v2 |
-| **Onboard compute** | Raspberry Pi 5 |
-| **Sensors** | RGB camera, thermal / IR camera, LiDAR + rangefinder, GNSS + IMU + barometer |
-| **Communication** | LoRa (critical alerts), Wi-Fi / 4G (video + images) |
-| **Software** | Python, FastAPI, MAVLink, Leaflet (live map dashboard), SQLite |
-| **Ground control** | DRISHYA V1 GCS (Disaster Response Intelligence & Mission Control System): tactical map, mission planner, live camera, 3D LiDAR, Pi 5 status, survivor detection panel, mission log |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=F472B6&width=600&height=40&lines=IMPACT+%26+FUTURE" alt="Impact and future"/>
 
-## 🌊 Technical Workflow During Rescue
+- 💼 **Economic:** lower search cost, smarter responder deployment, scalable fleets
+- 🇮🇳 **National:** offline-first response, multi-agency coordination, less reliance on imported drones
+- 🤝 **Social:** faster survivor identification, night and remote-area search, reduced responder exposure
+- 💡 **Business model:** B2B + B2G
+- 🔭 **Next:** better hazard detection · MESH network · swarm SAR · smarter human detection and priority
 
-```mermaid
-sequenceDiagram
-    autonumber
-    participant R as 👷 Rescuer (ground)
-    participant D as 🚁 Drone Acharyaa
-    participant P as 🧠 Pi 5 (edge AI)
-    participant C as 🖥️ Command Dashboard
-
-    R->>D: Start SAR operation
-    D->>D: Detect victims using RGB + thermal camera
-    D->>P: Detected images (operating over RF)
-    P->>P: Victim attribute identification
-    P->>P: Data analysis + priority ranking
-    P->>P: Geotagging + route optimization
-    P->>C: Store and transmit via SQLite
-    C->>R: Live video dashboard with victim ranking
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## ✅ Feasibility and Viability
-
-<table>
-<tr>
-<th width="33%">🔧 Technical</th>
-<th width="33%">💰 Economical</th>
-<th width="33%">🚚 Deployment and Logistics</th>
-</tr>
-<tr>
-<td valign="top">
-
-- **Embedded edge-AI architecture:** optimized, quantized computer-vision models for real-time victim detection on the edge
-- **Multi-sensor fusion pipeline:** hardware-synchronized RGB + LWIR thermal feeds
-- **GPS-denied visual odometry:** VIO and optical flow keep positioning, altitude hold and obstacle avoidance working
-
-</td>
-<td valign="top">
-
-- **Lower cost per flight hour** than existing SAR drones
-- **Rapid capital recovery:** low initial hardware and setup costs
-- **Reduced human liability:** replaces high-risk pilot operations in hazardous environments
-
-</td>
-<td valign="top">
-
-- **Offline and autonomous:** AI detection continues in network-disrupted zones
-- **Low operator dependency:** one operator can supervise multiple drones
-- **Rapid and scalable:** deploy and scale by disaster area and severity
-
-</td>
-</tr>
-</table>
-
-**Cost per hour (search-and-rescue missions):**
-
-| | Existing SAR drones | Drone Acharyaa |
-|---|---|---|
-| **Operating cost / hour** | ₹5,000 – ₹15,000 | ₹4,000 – ₹8,000 |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## ⚠️ Risks and Solutions
-
-| Risk | Solution | Strategy |
-|---|---|---|
-| 🔥 Fire, hot debris and heated surfaces may trigger **false survivor detections** | Fuse RGB confirmation, thermal signature analysis and a confidence threshold | Test with survivor, fire, debris and heated-surface scenarios; target **<5% false positives** |
-| 📡 **LoRa bandwidth** is insufficient for live RGB / thermal video | Send compact geo-tagged alerts over LoRa; buffer footage onboard | Prioritize high-confidence alerts; sync footage over 5G / Wi-Fi when available |
-| 🤖 AI may generate **incorrect or uncertain alerts**, causing hesitation | Show priority ranking, confidence score and RGB / thermal evidence for every detection | **Human verification** before final rescue prioritization, keeping the responder in control |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## 🌍 Impact and Benefits
-
-<details open>
-<summary><b>Click to expand or collapse the four impact areas</b></summary>
-
-<br/>
-
-| 💼 Economical | 💡 Innovational | 🇮🇳 National | 🤝 Social |
-|---|---|---|---|
-| Lower search cost | Edge RGB + thermal AI | Offline-first response | Faster survivor identification |
-| Smarter responder deployment | Human-verified AI alerts | Scalable multi-drone search | Inaccessible-area search |
-| Efficient flight usage | Closed-loop search | Real-time rescue intelligence | Reduced responder exposure |
-| Reduced manpower burden | Communication-efficient intelligence | Rapid disaster assessment | Night-time search support |
-| Scalable deployment | Modular AI architecture | Multi-agency coordination | Remote-area assistance |
-| Reduced search redundancy | Adaptive search intelligence | Connectivity-resilient operations | Rapid disaster assistance |
-| Better asset utilization | Multi-modal evidence fusion | Faster resource mobilization | Improved rescue accessibility |
-
-</details>
-
-### Key benefits
-
-1. **Faster and more targeted rescue:** AI survivor detection and prioritization for targeted search and rescue.
-2. **Safer rescue operations:** autonomous aerial reconnaissance assesses dangerous, unstable and inaccessible areas before humans enter.
-3. **Rescue intelligence without internet dependency:** offline edge AI handles local detection, localization and decision support.
-4. **Reliable, evidence-based alerts:** every alert carries AI confidence, GPS location and RGB / thermal evidence, with human verification before critical decisions.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## 💼 Business Model
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
 <div align="center">
 
-![B2B](https://img.shields.io/badge/🏢%20B2B-Business%20to%20Business-0B5CA8?style=for-the-badge) ➕ ![B2G](https://img.shields.io/badge/🏛️%20B2G-Business%20to%20Government-F97316?style=for-the-badge)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## 🔭 Future Scope
-
-```mermaid
-flowchart LR
-    A["Advancements on the<br/>hazards detection system"] --> B["Implementation of<br/>MESH network"] --> C["Implementation of swarm<br/>system for better SAR"] --> D["Better algorithm for<br/>human detection and priority"]
-    style A fill:#7FB8E8,stroke:#000,color:#000
-    style B fill:#9BE05A,stroke:#000,color:#000
-    style C fill:#FFA24D,stroke:#000,color:#000
-    style D fill:#FFE06B,stroke:#000,color:#000
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## 📚 References
-
-<details>
-<summary><b>Click to view references</b></summary>
-
-<br/>
-
-- Sharing my experience from a country where DJI is banned
-- Drones in Flood Rescue Search and Emergency operations
-- Applications of drone in disaster management: A scoping review
-- Drone Applications for Supporting Disaster Management (DOI: `10.4236/wjet.2015.33C047`)
-- Sensors and tracking methods used in wireless sensor network based unmanned search and rescue system: a review
-- Optimization cost of helicopter and UAV coordinated SAR time
-- How Drones Cut Costs by 95% Per Hour in Disaster Management
-
-<!-- TODO: add the actual URLs for each reference from your PDF links -->
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt=""/>
-
-## 👥 Meet the Team
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=THE+MINDS+BEHIND+DRONE+ACHARYAA;Team+MUYA+CHAKHWI;Building+tech+that+saves+lives" alt="Team typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=MEET+TEAM+MUYA+CHAKHWI;Building+tech+that+saves+lives" alt="Meet the team"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center" width="200">
-<img src="https://ui-avatars.com/api/?name=Sania+Debbarma&background=F97316&color=ffffff&size=200&bold=true&rounded=true" width="130" alt="Sania Debbarma"/><br/>
-<b>Sania Debbarma</b><br/>
-👑 <i>Team Leader</i><br/>
-<a href="https://www.linkedin.com/in/YOUR-SANIA-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</td>
-<td align="center" width="200">
-<img src="https://ui-avatars.com/api/?name=Debashis+Deb&background=0B5CA8&color=ffffff&size=200&bold=true&rounded=true" width="130" alt="Debashis Deb"/><br/>
-<b>Debashis Deb</b><br/>
-<a href="https://www.linkedin.com/in/YOUR-DEBASHIS-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</td>
-<td align="center" width="200">
-<img src="https://ui-avatars.com/api/?name=Anup+Sarkar&background=16A34A&color=ffffff&size=200&bold=true&rounded=true" width="130" alt="Anup Sarkar"/><br/>
-<b>Anup Sarkar</b><br/>
-<a href="https://www.linkedin.com/in/YOUR-ANUP-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</td>
+<td align="center" width="190"><img src="data:image/jpeg;base64,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" width="120" alt="Sania Debbarma"/><br/><b>Sania Debbarma</b><br/>👑 <i>Team Leader</i><br/><a href="https://www.linkedin.com/in/YOUR-SANIA-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+<td align="center" width="190"><img src="data:image/jpeg;base64,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" width="120" alt="Debashis Deb"/><br/><b>Debashis Deb</b><br/><a href="https://www.linkedin.com/in/YOUR-DEBASHIS-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+<td align="center" width="190"><img src="data:image/jpeg;base64,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" width="120" alt="Anup Sarkar"/><br/><b>Anup Sarkar</b><br/><a href="https://www.linkedin.com/in/YOUR-ANUP-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
 </tr>
 <tr>
-<td align="center" width="200">
-<img src="https://ui-avatars.com/api/?name=Gourab+Das&background=9333EA&color=ffffff&size=200&bold=true&rounded=true" width="130" alt="Gourab Das"/><br/>
-<b>Gourab Das</b><br/>
-<a href="https://www.linkedin.com/in/YOUR-GOURAB-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</td>
-<td align="center" width="200">
-<img src="https://ui-avatars.com/api/?name=Diya+Das&background=DB2777&color=ffffff&size=200&bold=true&rounded=true" width="130" alt="Diya Das"/><br/>
-<b>Diya Das</b><br/>
-<a href="https://www.linkedin.com/in/YOUR-DIYA-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</td>
-<td align="center" width="200">
-<img src="https://ui-avatars.com/api/?name=Samadrita+Chakraborty&background=0891B2&color=ffffff&size=200&bold=true&rounded=true" width="130" alt="Samadrita Chakraborty"/><br/>
-<b>Samadrita Chakraborty</b><br/>
-<a href="https://www.linkedin.com/in/YOUR-SAMADRITA-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</td>
+<td align="center" width="190"><img src="data:image/jpeg;base64,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" width="120" alt="Gourab Das"/><br/><b>Gourab Das</b><br/><a href="https://www.linkedin.com/in/YOUR-GOURAB-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+<td align="center" width="190"><img src="data:image/jpeg;base64,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" width="120" alt="Diya Das"/><br/><b>Diya Das</b><br/><a href="https://www.linkedin.com/in/YOUR-DIYA-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+<td align="center" width="190"><img src="https://ui-avatars.com/api/?name=Samadrita+Chakraborty&background=0891B2&color=ffffff&size=200&bold=true&rounded=true" width="120" alt="Samadrita Chakraborty"/><br/><b>Samadrita Chakraborty</b><br/><a href="https://www.linkedin.com/in/YOUR-SAMADRITA-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
 </tr>
 </table>
 
-<!--
-  OPTIONAL: to show real photos, replace an avatar's src with the person's GitHub photo:
-  https://github.com/THEIR-GITHUB-USERNAME.png
-  OPTIONAL: to add a team group photo, upload it to the repo and add under the typing animation:
-  <img src="team.jpg" width="70%" alt="Team Muya Chakhwi"/>
--->
+<!-- Samadrita's photo: add assets/team/samadrita.png, then replace her avatar src with that path. -->
 
-</div>
-
-<br/>
-
-<div align="center">
-
-**Smart India Hackathon 2026 · Problem Statement 26177 · Team ID 181771**
-
-*Drone Acharyaa: Intelligence That Guides, Eyes That Save* 🚁
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=footer&text=Eyes%20That%20Save&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=170&section=footer&text=Eyes%20That%20Save&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="footer"/>
 
 </div>
