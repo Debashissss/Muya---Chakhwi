@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/drone-sky.svg" width="100%" alt="MUYA CHAKHWI - Drone Acharyaa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=270&section=header&text=MUYA%20CHAKHWI&fontSize=74&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Smart%20India%20Hackathon%202026&descAlignY=58&descSize=22" width="100%" alt="MUYA CHAKHWI"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=900&color=F97316&center=true&vCenter=true&width=860&lines=%F0%9F%9A%81+DRONE+ACHARYAA;Intelligence+That+Guides%2C+Eyes+That+Save;AI-Powered+Search-and-Rescue+Drone;Offline-First+%7C+GPS-Denied+Ready+%7C+Human-Verified" alt="Typing animation"/>
 
@@ -19,7 +19,7 @@
 
 </div>
 
-<img src="assets/drone-divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=38BDF8&width=600&height=40&lines=THE+PROBLEM" alt="The Problem"/>
 
@@ -31,7 +31,7 @@
 - 🛰️ **GPS-denied zones** make normal drones unreliable
 - ⚖️ **No prioritization** among multiple survivors
 
-<img src="assets/drone-divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=F97316&width=600&height=40&lines=OUR+SOLUTION%3A+DRONE+ACHARYAA" alt="Our Solution"/>
 
@@ -49,7 +49,7 @@ A hexacopter with **edge AI** that sees with **RGB + thermal**, finds survivors 
 | **Wi-Fi / 4G** | Video + images, buffered in local SQLite | ⏳ Auto-sync on reconnect |
 | **Internet / cloud** | Not required | ❌ Not needed |
 
-<img src="assets/drone-divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=EF4444&width=600&height=40&lines=PRIORITY-BASED+RESCUE" alt="Priority-based rescue"/>
 
@@ -75,7 +75,7 @@ Not every survivor is equally urgent. Drone Acharyaa **ranks everyone it finds**
 
 **What rescuers get:** a live **ranked priority queue** on the command dashboard with survivor pins on the map, hazard zones, and a **safe rescue route with ETA**. A **human verifies** every alert before the final rescue decision.
 
-<img src="assets/drone-divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=4ADE80&width=600&height=40&lines=WHAT+MAKES+IT+DIFFERENT" alt="What makes it different"/>
 
@@ -89,7 +89,7 @@ Not every survivor is equally urgent. Drone Acharyaa **ranks everyone it finds**
 
 **Flight modes:** 📍 GPS survey grid (30% overlap, geofence) &nbsp;·&nbsp; 📴 GPS-denied (optical flow + EKF switching) &nbsp;·&nbsp; 🌲 Obstacle stop, pilot override always live
 
-<img src="assets/drone-divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=FACC15&width=600&height=40&lines=HOW+IT+WORKS" alt="How it works"/>
 
@@ -113,7 +113,7 @@ Not every survivor is equally urgent. Drone Acharyaa **ranks everyone it finds**
 
 </div>
 
-<img src="assets/drone-divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1500&color=F472B6&width=600&height=40&lines=IMPACT+%26+FUTURE" alt="Impact and future"/>
 
@@ -123,7 +123,7 @@ Not every survivor is equally urgent. Drone Acharyaa **ranks everyone it finds**
 - 💡 **Business model:** B2B + B2G
 - 🔭 **Next:** better hazard detection · MESH network · swarm SAR · smarter human detection and priority
 
-<img src="assets/drone-divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=70&section=header" width="100%" alt=""/>
 
 <div align="center">
 
