@@ -1,0 +1,38 @@
+# DRISHYA V1 — Human Detection Module
+# Raspberry Pi 5 offline deployment requirements
+#
+# ─── QUICK SETUP (Pi 5 — Raspberry Pi OS Bookworm 64-bit) ────────────────────
+#   pip install -r requirements.txt
+#
+# ─── MODEL WEIGHTS (copy before running) ─────────────────────────────────────
+#   Recommended: ONNX  →  models/yolo11s.onnx   (fastest on Pi 5, no torch)
+#   Alternate:   PyTorch →  models/yolo11s.pt    (requires torch, see below)
+#
+#   To export yolo11s.onnx on a PC with GPU, then copy to Pi:
+#     pip install ultralytics
+#     yolo export model=yolo11s.pt format=onnx imgsz=416 simplify=True
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── Core vision ───────────────────────────────────────────────────────────────
+# Use headless build — no Qt/X11 dependency needed on Pi
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+
+# ── Inference — ONNX Runtime (recommended for Pi 5, ARM64) ───────────────────
+# Much lighter than torch; works fully offline after model export.
+onnxruntime>=1.17.0
+
+# ── Inference — PyTorch path (optional, heavier) ─────────────────────────────
+# Only needed if using .pt model directly. Install ARM wheel from:
+#   https://pytorch.org/get-started/locally/  (select Linux / Pip / ARM64)
+# Uncomment when using .pt model:
+# torch>=2.1.0
+# torchvision>=0.16.0
+# ultralytics>=8.3.0
+
+# ── GPS / MAVLink telemetry ───────────────────────────────────────────────────
+pyserial>=3.5
+pymavlink>=2.4.0
+
+# ── Image save ────────────────────────────────────────────────────────────────
+Pillow>=10.0.0
